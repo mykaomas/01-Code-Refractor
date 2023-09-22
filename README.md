@@ -5,9 +5,9 @@ Create a codebase that follows accessibility standards, is SEO-optimized, and co
 ## Motivation
 My motivation and reason for refracturing the code was to get more comfortable with reading code and figuring out how the code could be improved. 
 
-This project solves three problems: 1). it follows accessibility guidelines to give an optimal UX for everyone who visits the site. 2). Make concise and descriptive code to assist future developers who may work on the site to make changes easy and effectively  3). making the site accessible allows the company to rank higher on SEO. Which in turn, can lead to more traffic on their website. 
+This project solves three problems: 1). it follows accessibility guidelines to give an optimal UX for everyone who visits the site. 2). Make concise and descriptive code to assist future developers who may work on the site to make changes easily with the readable code 3). Making the site accessible allows the company to rank higher on SEO. Which in turn, can lead to more traffic on their website. 
 
-During this project I learned, how to solve the issue of divergent branches; how adding semantics makes it easier to understand the structure of a webpage; and how descriptive classes and ids can help a future developer decipher what is what.
+During this project I learned, how to solve the issue of divergent branches; how adding semantics makes it easier to understand the structure of a webpage; and how descriptive classes and IDs can help a future developer decipher what is what.
 
 ## Description
 
@@ -22,6 +22,8 @@ Refactored starter code to increase UX by doing the following:
 * All headings follow a sequential sequence 
 
 * Updated title page to better optimize search results
+
+* Concised the CSS code to eliminate ext lines of code
 
 ## Credits
 N/A
