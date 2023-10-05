@@ -1,17 +1,25 @@
 # Horiseon Marketing: Code Refactor Project
 
-Create a codebase that follows accessibility standards, is SEO-optimized, and concise
+Take the code provided and refactor the code using semantic HTML elements for accessibility; verify all links work; code is concise; and is SEO-optimized to create an optimal user experience
 
 ## Motivation
-My motivation and reason for refracturing the code was to get more comfortable with reading code and figuring out how the code could be improved. 
-
-This project solves three problems: 1). it follows accessibility guidelines to give an optimal UX for everyone who visits the site. 2). Make concise and descriptive code to assist future developers who may work on the site to make changes easily with the readable code 3). Making the site accessible allows the company to rank higher on SEO. Which in turn, can lead to more traffic on their website. 
+My motivation for refracturing the code was to get comfortable with reading code; implementing semantic HTML elements, and figuring out how the code could be improved upon. 
 
 During this project I learned, how to solve the issue of divergent branches; how adding semantics makes it easier to understand the structure of a webpage; and how descriptive classes and IDs can help a future developer decipher what is what.
 
 ## Description
 
-Refactored starter code to increase UX by doing the following:
+This project solves four problems: 
+
+  * It follows accessibility guidelines to give an optimal user experience for everyone who visits the site. 
+
+  * Makes the code easy to read
+
+  * Makes concise and descriptive code to assist future developers who may work on the site to make changes easily
+  
+  *  Making the site accessible allows the company to rank higher on SEO. Which in turn, can lead to more traffic on their website and increased revenue. 
+
+# Changes Made
 
 * Replaced div elements with semantic elements to make the code easier to read and understand
 
@@ -23,7 +31,7 @@ Refactored starter code to increase UX by doing the following:
 
 * Updated title page to better optimize search results
 
-* Concised the CSS code to eliminate ext lines of code
+* Concised the CSS code to eliminate extra lines of code
 
 ## Credits
 N/A
